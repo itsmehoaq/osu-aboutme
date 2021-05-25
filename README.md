@@ -1,4 +1,4 @@
-### about me
+## about me
 
 **nm1 gamer**
 
@@ -8,7 +8,7 @@ scuffed gear list:
 - tab: CTL-480 
 - monitor: AOC 24G2 or built-in ASUS TUF laptop screen, depends
 ---
-### tourney stuff
+## tourney stuff
 
 > i help tourneys, mostly ref, sometimes host.
 
@@ -27,5 +27,5 @@ scuffed gear list:
 > - and prob many more that I completely forgot
 
 ---
-### my skin folder
+## my skin folder
 > to be added once I'm not lazy organizing stuff
