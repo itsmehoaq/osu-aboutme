@@ -25,3 +25,7 @@ scuffed gear list:
 > - Sporks Cup: Referee, Commentator
 > - OWC "almost made it" 2020: Commentator
 > - and prob many more that I completely forgot
+
+---
+### my skin folder
+> to be added once I'm not lazy organizing stuff
