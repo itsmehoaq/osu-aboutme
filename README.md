@@ -10,20 +10,23 @@ scuffed gear list:
 ---
 ## tourney stuff
 
-> i help tourneys, mostly ref, sometimes host.
+> i help tourneys, either being a streamer (for 1v1 or 2v2 tourneys), referee (depends on the timezone), commentator, or even a host.
 
 **founder of [Vietnam Community League](https://vcl.works) project, read more [HERE](https://twitter.com/itsmehoaq/status/1291595490740416512)**
 
 *Currently active in:*
 - [GottaAimFast](https://www.gottaaimfast.com/) - Co-host
-- [Corsace Closed](https://corsace.io) - Commentator (Trial)
-- [ANZT Seasonal](https://osu.ppy.sh/community/forums/topics/1204722) - Referee
-- and every tourneys in [VCL](https://vcl.works) (host)
+- [ANZT8 Winter](https://osu.ppy.sh/community/forums/topics/1204722) - Referee & Streamer
+- BQT - Commentator
+- and every tourneys in [VCL](https://vcl.works) (host), including:
+  + VHP3 (Concluded)
+  + Vietnam osu! Championship
 
 > Past activities:
 > - osu! SEA Tournament: Referee (1st iteration), Commentator (2nd & 3rd iteration)
 > - Sporks Cup: Referee, Commentator
 > - OWC "almost made it" 2020: Commentator
+> - Corsace Closed - Commentator
 > - and prob many more that I completely forgot
 
 ---
