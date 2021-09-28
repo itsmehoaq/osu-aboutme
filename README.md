@@ -32,8 +32,8 @@ scuffed gear list:
 
 ---
 ## my skin
-[Kronii mixed skin](https://cloud.degoo.com/share/O-luTXu6tPJYfhh_RiMbTA) 
-- Credits: 
- + u/sskro - [# Ouro Kronii「NM/DT](https://www.reddit.com/r/OsuSkins/comments/pgczv7/ouro_kroniinmdt_another_ouro_kronii_osu_skin/) - base skin
+### [Kronii mixed skin](https://cloud.degoo.com/share/O-luTXu6tPJYfhh_RiMbTA) 
+Credits: 
+ + u/sskro - [# Ouro Kronii「NM/DT」](https://www.reddit.com/r/OsuSkins/comments/pgczv7/ouro_kroniinmdt_another_ouro_kronii_osu_skin/) - base skin
  + u/OctavianSigma - [『Hololive』Kronii no Jikan](https://www.reddit.com/r/OsuSkins/comments/pcpvpp/hololivekronii_no_jikan_an_ouro_kronii_osu_skin/) - mod icons and healthbar
  + u/ShikimaKun - [(SK) Maki 1.0](https://www.reddit.com/r/OsuSkins/comments/pd847j/sk_maki_10_skin_release_std169_sdhd/) - hitcircles
