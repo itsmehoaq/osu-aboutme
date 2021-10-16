@@ -3,10 +3,10 @@
 **nm1 gamer**
 
 scuffed gear list:
-- laptop: asus tuf something something with Ryzen 7 and 1660ti
+- laptop: asus tuf something something with Ryzen 7 and 1660ti (this is not mine btw, soon will be back with macbook pro 2018)
 - keeb: ~~Tofu65 Acrylic (Modded Oreo switches)~~ for now using a half-broken Ducky One 2 with Gateron Milky Black
 - tab: CTL-480 
-- monitor: AOC 24G2
+- monitor: AOC 24G2 (this also not mine kay how am I still coping with this situation smh)
 ---
 ## tourney stuff
 
